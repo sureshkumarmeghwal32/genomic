@@ -1,5 +1,6 @@
 # genomic
 norcet classes
+ANATOMY PHYSIOLOGY 
 <ol>
 <li><code></code><br><span style="background-color: rgb(237, 237, 122); color: rgb(0, 0, 0);"><strong><a href="https://youtu.be/66HjuPYLN5o" style="background-color: rgb(237, 237, 122); color: rgb(0, 0, 0);">01 INTRODUCTION OF ANATOMY</a></strong></span></li>
 <li style="font-weight: bold; color: rgb(0, 0, 0);"><span style="background-color: rgb(237, 237, 122); color: rgb(0, 0, 0);"><strong><a href="https://youtu.be/naAdIAsmLa4" style="background-color: rgb(237, 237, 122); color: rgb(0, 0, 0);">02 MEDIASTINUM</a></strong></span></li>
@@ -76,4 +77,12 @@ norcet classes
 <li style="font-weight: bold; color: rgb(0, 0, 0);"><span style="background-color: rgb(237, 237, 122); color: rgb(0, 0, 0);"><strong><em><a href="https://youtu.be/DZczak1oshY">73 EYE PART 1</a></em></strong></span></li>
 <li style="font-weight: bold; color: rgb(0, 0, 0);"><span style="background-color: rgb(237, 237, 122); color: rgb(0, 0, 0);"><strong><em><a href="https://youtu.be/mKfDoxmeGbI">74 EYE PART 2</a></em></strong></span></li>
 <li style="font-weight: bold; color: rgb(0, 0, 0);"><span style="background-color: rgb(237, 237, 122); color: rgb(0, 0, 0);"><strong><em><a href="https://youtu.be/7lfpIwMYoe0">75 EYE PART 3</a></em></strong></span></li>
+ 
+
+PEDIATRIC
+
 </ol>
+<p><a href="https://www.youtube.com/playlist?list=PL_WKrmMQGglYrNT10bXqadVfGH6DQP-1U">PEDIATRIC PART -1</a></p>
+<p><a href="https://www.youtube.com/playlist?list=PLATZmDKx9Y-ebv3qWL88OCbIikaAQrPPU">PEDIATRIC PART - 2</a></p>
+<p><a href="https://youtube.com/playlist?list=PLzi3U9p4-ZQ2gG15QLYSE_qG_MBnrpMiu&amp;si=fVVJ812uyoQEep2t">PEDIATRIC PART -3</a></p>
+<p></p>
